@@ -8,6 +8,10 @@ litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 
 * [贡献](https://linlinjava.gitbook.io/litemall/contribute)
 * [FAQ](https://linlinjava.gitbook.io/litemall/faq)
 * [API](https://linlinjava.gitbook.io/litemall/api)
+## 环境安装
+1. https://www.oracle.com/java/technologies/downloads/
+2. brew install maven
+3. 
 
 ## 项目实例
 
