@@ -8,7 +8,7 @@ litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 
 * [贡献](https://linlinjava.gitbook.io/litemall/contribute)
 * [FAQ](https://linlinjava.gitbook.io/litemall/faq)
 * [API](https://linlinjava.gitbook.io/litemall/api)
-## 环境安装
+## 环境安装(Alex)
 1. https://www.oracle.com/java/technologies/downloads/
 2. brew install maven
 3. 
@@ -136,6 +136,7 @@ litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 
 
     打开命令行，输入以下命令
     ```bash
+    海外直接使用 npm install, 不需要安装 cnpm (Alex)
     npm install -g cnpm --registry=https://registry.npm.taobao.org
     cd litemall/litemall-vue
     cnpm install
